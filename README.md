@@ -16,10 +16,10 @@ O projeto tem como objetivo estudar conceitos introdutórios de educação finan
 ## 🔎 Fontes
 
 1. [Banco Central — Caderno de Educação Financeira]:
-(https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf?utm_source=chatgpt.com)
-3. [SUSEP — Educação Financeira]: https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/educacao-financeira/orcamento-1?utm_source=chatgpt.com
-4. [Portal do Investidor/CVM]: (https://www.gov.br/investidor/pt-br/investir/antes-de-investir/defina-seus-objetivos/emergencias-e-aposentadoria?utm_source=chatgpt.com)
-5. [Portal do Investidor/CVM]:(https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos?utm_source=chatgpt.com)
+(https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf?utm_source=chatgpt.com).
+3. [SUSEP — Educação Financeira]: https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/educacao-financeira/orcamento-1?utm_source=chatgpt.com.
+4. [Portal do Investidor/CVM]: (https://www.gov.br/investidor/pt-br/investir/antes-de-investir/defina-seus-objetivos/emergencias-e-aposentadoria?utm_source=chatgpt.com).
+5. [Portal do Investidor/CVM]:(https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos?utm_source=chatgpt.com).
 
 ## 🤖 Engenharia de Prompts
 
